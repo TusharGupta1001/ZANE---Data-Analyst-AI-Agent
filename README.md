@@ -225,6 +225,7 @@ ZANE is designed to make data analysis lightning-fast, intuitive, and enjoyable 
 ## 📬 Contact & Feedback
 
 Have questions, suggestions, or just want to say hi?
+
 📧 Email: [tusharishangupta7@gmail.com](mailto:tusharishangupta7@gmail.com)
 
 
