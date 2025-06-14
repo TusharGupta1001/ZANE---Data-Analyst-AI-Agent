@@ -1,0 +1,21 @@
+streamlit 
+os
+pandas 
+numpy 
+plotly.express 
+plotly.figure_factory 
+docx2txt import process 
+PyPDF2 
+openpyxl
+PIL 
+io
+base64
+uuid
+reportlab.lib.pagesizes
+reportlab.pdfgen 
+streamlit.components.v1 
+scipy
+sklearn.tree
+sklearn.preprocessing 
+requests
+json
