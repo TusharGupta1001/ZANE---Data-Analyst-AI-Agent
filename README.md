@@ -217,8 +217,8 @@ ZANE is designed to make data analysis lightning-fast, intuitive, and enjoyable 
 
 
 ## 🖼️ Demo 
-![Alt Text]((https://github.com/TusharGupta1001/ZANE---Data-Analyst-AI-Agent/blob/6916a3fc65f73a2c2f4220851ee8c73fed4de7f7/Screenshot%202025-06-21%20151749.png))
-![Alt Text](images/your-image.png)
+[![Alt Text]((https://github.com/TusharGupta1001/ZANE---Data-Analyst-AI-Agent/blob/6916a3fc65f73a2c2f4220851ee8c73fed4de7f7/Screenshot%202025-06-21%20151749.png))
+](https://github.com/TusharGupta1001/ZANE---Data-Analyst-AI-Agent/blob/main/Screenshot%202025-06-21%20151749.png)![Alt Text](images/your-image.png)
 ![Alt Text](images/your-image.png)
 ![Alt Text](images/your-image.png)
 ![Alt Text](images/your-image.png)
