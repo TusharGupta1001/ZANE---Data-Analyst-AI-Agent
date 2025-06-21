@@ -216,7 +216,13 @@ ZANE is designed to make data analysis lightning-fast, intuitive, and enjoyable 
 ---
 
 
-## 🖼️ Demo Video
+## 🖼️ Demo 
+![Alt Text](images/your-image.png)
+![Alt Text](images/your-image.png)
+![Alt Text](images/your-image.png)
+![Alt Text](images/your-image.png)
+![Alt Text](images/your-image.png)
+![Alt Text](images/your-image.png)
 
 
 ---
